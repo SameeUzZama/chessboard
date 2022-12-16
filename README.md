@@ -1,3 +1,5 @@
+[chessboard.webm](https://user-images.githubusercontent.com/94825943/205294379-faaae590-7611-43f8-a233-580263ca5fb2.webm)
+
 # Chess Board (React Drag & Drop)
 
 | In this React project, I explore the drag-and-drop capabilities of <a href="http://react-dnd.github.io/react-dnd">React DnD</a> while using Flexbox to build a simplified chess board containing a single set of pieces. |
@@ -28,4 +30,3 @@ In the project directory, you can run:
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-[chessboard.webm](https://user-images.githubusercontent.com/94825943/205294379-faaae590-7611-43f8-a233-580263ca5fb2.webm)
